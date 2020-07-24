@@ -1,0 +1,3 @@
+[submodule "travel-planning"]
+	path = travel-planning
+	url = git@github.com:pabloosorio/travel-planning.git
