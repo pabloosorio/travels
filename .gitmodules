@@ -1,3 +1,6 @@
 [submodule "travel-planning"]
 	path = travel-planning
 	url = git@github.com:pabloosorio/travel-planning.git
+[submodule "web-company-color"]
+	path = web-company-color
+	url = git@github.com:pabloosorio/web-company-color.git
